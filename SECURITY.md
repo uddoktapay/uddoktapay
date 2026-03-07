@@ -4,7 +4,7 @@
 
 | Version | New Features | Bug Fixes | Security Fixes |
 |---------|--------------|-----------|----------------|
-| 0.x     | ✅            | ✅         | ✅              |
+| 5.x     | ✅            | ✅         | ✅              |
 
 ## Reporting a Vulnerability
 
